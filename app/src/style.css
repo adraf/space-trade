@@ -1,0 +1,20 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  
+  --dark-space: #070F2B;
+  --mid-space: #1B1A55;
+  --light-space: #535C91;
+  --lightest-space: #9290C3;
+}
+
+body {
+  margin: 0;
+  background-color: var(--dark-space);
+}
+
+
+
+
+
